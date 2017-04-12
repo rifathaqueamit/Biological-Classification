@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1399747102 source:d:\amit\documents\code blocks\my_project\project classification\database.cpp
+	"Database.h"
+	"Rank.h"
+	<iostream>
+	<fstream>
+
+1399745899 d:\amit\documents\code blocks\my_project\project classification\database.h
+	<iostream>
+	<vector>
+	"Rank.h"
+
+1399725322 d:\amit\documents\code blocks\my_project\project classification\rank.h
+	<iostream>
+	<vector>
+
+1399747403 source:d:\amit\documents\code blocks\my_project\project classification\main.cpp
+	<iostream>
+	"Database.h"
+	"Rank.h"
+	"View_System.h"
+	"Search_System.h"
+
+1396010740 d:\amit\documents\code blocks\my_project\project classification\view_system.h
+	"Database.h"
+	<iostream>
+
+1396012816 d:\amit\documents\code blocks\my_project\project classification\search_system.h
+	"Database.h"
+	"Rank.h"
+
+1399727824 source:d:\amit\documents\code blocks\my_project\project classification\rank.cpp
+	"Rank.h"
+	<vector>
+
+1399727824 source:d:\amit\documents\code blocks\my_project\project classification\search_system.cpp
+	"Search_System.h"
+	"Database.h"
+	"Rank.h"
+
+1399727824 source:d:\amit\documents\code blocks\my_project\project classification\view_system.cpp
+	"View_System.h"
+	"Database.h"
+	<iostream>
+	"Rank.h"
+	<stack>
+	<ostream>
+
